@@ -3,7 +3,6 @@ Pessoas desenvolvedoras em sua grande maioria não tem a menor noção do quão 
 Segundo o [InfoDados](https://www.infodados.com/2022/06/calculadora-de-renda-brasil.html), uma pessoa que ganha R$3.500 já está acima de 80% da população brasileira em receita. Mas como assim vemos tantas pessoas desenvolvedoras em redes sociais reclamando de falta de dinheiro?
 ## 1. Prólogo
 
-
 Olá, tudo bem? Eu me chamo Alex e sou um desenvolvedor focado em JS, atualmente atuo com React Native, mas estou sempre ativo no mundo da web. Bom, hoje quero compartilhar com vocês um dos possíveis calcanhares de Aquiles de muitos **devs JRs** (especialmente no Brasil), a sua organização financeira ou desorganização financeira no caso. 
 
 
@@ -22,9 +21,11 @@ Bom, se essas **frases acima** ou alguma similar já passaram pela sua imaginaç
 Bom, de certa forma é simples, você tem boletos a pagar e o medo de sujar o seu nome vai acabar não só te mantendo em empregos ruins, aceitando situações indesejadas, mas vai te impedir de evoluir.
 
 Vamos a um exemplo do seu dia a dia:  
-* Você trabalha diretamente com diretores e pessoas com cargos bem altos na empresa.;
-* Certo dia uma dessas pessoas te pede para fazer uma nova feature, você a analisa, pensa em como vai desenvolver e encontra várias brechas de segurança, usabilidade e coisas afins, mas você acha que não é capaz de desenvolver essa feature cumprindo todos os requisitos;
-* Você não leva essa informação pra frente, pois você pode estar preso no pensamento: _“Puts, se eu chegar com um monte de falha que eu não sou capaz de corrigir posso acabar perdendo meu emprego!”_.
+*Você trabalha diretamente com diretores e pessoas com cargos bem altos na empresa;
+
+Certo dia uma dessas pessoas te pede para fazer uma nova feature, você a analisa, pensa em como vai desenvolver e encontra várias brechas de segurança, usabilidade e coisas afins, mas você acha que não é capaz de desenvolver essa feature cumprindo todos os requisitos;
+Você não leva essa informação pra frente, pois você pode estar preso no pensamento: 
+“Puts, se eu chegar com um monte de falha que eu não sou capaz de corrigir posso acabar perdendo meu emprego!”.
 
 Tendo essa situação acima, você:
 
