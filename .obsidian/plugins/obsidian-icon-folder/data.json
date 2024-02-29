@@ -6,6 +6,9 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiStickyNoteLine",
+      "RiGithubLine",
+      "RiArticleLine",
       "RiTaskLine",
       "RiBookletLine"
     ],
@@ -25,5 +28,8 @@
     "iconIdentifier": ":"
   },
   "Books": "RiBookletLine",
-  "Tasks": "RiTaskLine"
+  "Tasks": "RiTaskLine",
+  "Articles": "RiArticleLine",
+  "ReadMe": "RiGithubLine",
+  "Notes": "RiStickyNoteLine"
 }
