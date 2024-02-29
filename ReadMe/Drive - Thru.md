@@ -2,13 +2,13 @@
 <p align="center">Site drive thru</p>
 ## Descrição ℹ️
 
-Site da Hand Talk destinado a deleção de users cadastrados no Hand Talk App
+Site da Hand Talk destinado a deleção de dados dos users cadastrados no Hand Talk App
 ## Dependências 🚧
 
 **É necessário** possuir o **[firebase](https://firebaseopensource.com/projects/firebase/firebase-tools/)** e estar devidamente **logado** no contexto da Hand Talk.
 Para isso, faça:
 
-1. Logue no firebase
+- Logue no firebase
 
 ```bash
 firebase login
@@ -34,6 +34,7 @@ nvm install
 ```bash
 nvm use
 ```
+> Esse passo é **importante** e **precisa** ser executado **cada vez** que voce acessar esse projeto.
 
 -  2.1 Caso o app seja seu produto principal, você pode definir essa versão do Node como padrão:
 
