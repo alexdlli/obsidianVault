@@ -1,13 +1,20 @@
-<h1 align="center">Hand Talk APP</h1>
-<p align="center">App da Hand Talk</p>
+<h1 align="center">Drive-thru</h1>
+<p align="center">Site drive thru</p>
 ## Descrição ℹ️
 
-Aplicativo da Hand Talk construído em React Native.
+Site da Hand Talk destinado a deleção de users cadastrados no Hand Talk App
 ## Dependências 🚧
 
-Caso ainda não tenha o seu ambiente de React Native configurado, **recomendamos** que consulte essa [Documentação](https://react-native.rocketseat.dev/) e siga todos os passos, principalmente com versões específicas.
+**É necessário** possuir o **[firebase](https://firebaseopensource.com/projects/firebase/firebase-tools/)** e estar devidamente **logado** no contexto da Hand Talk.
+Para isso, faça:
 
-> Depois do ambiente configurado, você vai precisar de mais duas ferramentas:
+1. Logue no firebase
+
+```bash
+firebase login
+```
+
+Depois do firebase configurado, você vai precisar de mais duas ferramentas:
 
 1. [Nvm](https://github.com/nvm-sh/nvm)
 2. [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable)
@@ -31,7 +38,7 @@ nvm use
 -  2.1 Caso o app seja seu produto principal, você pode definir essa versão do Node como padrão:
 
 ```bash
-nvm alias default lts/hydrogen
+nvm alias default
 ```
 
 3. Agora, precisamos instalar as dependências do projeto:
@@ -106,9 +113,9 @@ yarn apk
 
 - Para o iOS, temos um pouco mais de dificuldade, e você vai precisar de permissões dentro do dash da Apple da HT. Você pode acompanhar esse processo diretamente na [documentação do RN](https://reactnative.dev/docs/publishing-to-app-store).
 
-## Mudando a versão do APP 🆕
+## Mudando a versão do drive-thru 🆕
 
-Por padrão, vamos precisar fazer 3 alterações, duas em arquivos e uma no xcode.
+Por padrão, vamos precisar fazer 1 alteração, duas em arquivos e uma no xcode.
 
 ### Mudando a versão no `package.json`:
 
@@ -121,23 +128,6 @@ Você vai encontrar o `package.json` na raiz do projeto. Entre nele e altere o v
 	...
 }
 ```
-### Mudando a versão no android
-
-Você vai precisar navegar na seguinte estrutura de pastas: `android/app/build.gradle`. Dentro desse arquivo, navegue até a opção _**defaultConfig**_ e altere os valores das chaves `versionCode` e `versionName`:
-
-```gradle
-defaultConfig {
-	...
-	versionCode 313 // Incremente em 1 esse número
-	
-	versionName "Altere aqui a versão"
-	...
-}
-```
-
-### Mudando a versão do IOS
-
-Como sempre, a Apple deixa esse processo depender do Xcode. Para isso, você pode olhar diretamente na [documentação da Apple](https://developer.apple.com/documentation/xcode/preparing-your-app-for-distribution/#Set-the-supported-destinations) sobre como atualizar a `version` e `build string`, ou pergunte para alguém do time de app.
 ## Passos finais 🎉
 
 Lembre-se sempre de atualizar este `README.md` para cada nova atualização ou outras informações que forem necessárias.
