@@ -12,6 +12,9 @@ Um dos meus impactos profissionais foi a modernização de sistemas tanto web co
 
 Alem de desenvolvedor sou entusiasta em compartilhar conhecimento tanto com artigos no dev.to e lives na twitch onde compartilho minha rotina de estudo, com live code e projetos ao vivo.
 
+Viso futuramente assumir a cadeira de especialista em desenvolvimento e para isso me mantenho sempre evoluindo através de cursos, palestras, mentorias, e fazendo networking na comunidade de desenvolvedores. 
 
+Voce pode ler meus artigos aqui no dev.to: https://dev.to/alexdlli
+Conheça os meus projetos: https://github.com/alexdlli
 
-Estou sempre animado com novos desafios e a oportunidade de aprender mais sobre o universo do desenvolvimento.
+Estou sempre animado com novos desafios, a oportunidade de aprender mais sobre o universo do desenvolvimento e aumentar meu repertório, discutir projetos e colaborações, se voce esta em busca de um desenvolvedor assim, não hesite em entrar em contato: alexsandrojr.303@gmail.com
