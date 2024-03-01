@@ -10,6 +10,8 @@ Além disso, tenho experiência com várias outras tecnologias, como: React Quer
 
 Um dos meus impactos profissionais foi a modernização de sistemas tanto web como mobile, promovendo a expansão dos serviços da empresa, com interfaces intuitivas e acessíveis. Também ja reestruturei uma aplicação inativa tornando-a um case de impacto e sucesso de funcionalidade.
 
+Alem de desenvolvedor sou entusiasta em compartilhar conhecimento tanto com artigos no dev.to e lives na twitch onde compartilho minha rotina de estudo, com live code e projetos ao vivo.
+
 
 
 Estou sempre animado com novos desafios e a oportunidade de aprender mais sobre o universo do desenvolvimento.
