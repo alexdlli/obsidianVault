@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Backlock
 
-- [ ] Tripod to webcam
+- [ ] Reponder form da mentoria
 
 
 ## working
@@ -16,7 +16,6 @@ kanban-plugin: basic
 
 ## Finished
 
-- [ ] Teste finished
 
 
 
