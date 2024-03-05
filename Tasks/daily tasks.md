@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Backlock
 
-- [ ] Reponder form da mentoria
+- [ ] [[Conversar com Rods sobre deploy do drive-thur]]
 
 
 ## working
@@ -16,6 +16,7 @@ kanban-plugin: basic
 
 ## Finished
 
+- [ ] Reponder form da mentoria
 
 
 

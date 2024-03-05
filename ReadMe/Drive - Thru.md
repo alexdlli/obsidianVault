@@ -45,7 +45,7 @@ nvm alias default lts/iron
 3. Agora, precisamos instalar as dependências do projeto:
 
 ```bash
-yarn install
+yarn install | yarn
 ```
 
 4. Com tudo pronto, podemos rodar nosso bundler:
@@ -85,6 +85,8 @@ Você vai encontrar o `package.json` na raiz do projeto. Entre nele e altere o v
 ```
 
 ## Realizando Deploys
+
+
 ## Passos finais 🎉
 
 Lembre-se sempre de atualizar este `README.md` para cada nova atualização ou outras informações que forem necessárias.
