@@ -7,11 +7,12 @@ kanban-plugin: basic
 ## Backlock
 
 - [ ] [[Conversar com Rods sobre deploy do drive-thur]]
+- [ ] Devolver um error no function, copiando de outra callableFuncion
 
 
 ## working
 
-- [ ] Teste work
+- [ ] Estudar para a faculdade
 
 
 ## Finished
