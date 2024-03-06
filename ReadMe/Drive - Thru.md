@@ -71,7 +71,7 @@ Você pode saber mais na [documentação do conventional commits](https://www.co
 
 ## Mudando a versão do drive-thru 🆕
 
-Por padrão, vamos precisar fazer 1 alteração, duas em arquivos e uma no xcode.
+Por padrão, vamos precisar fazer 1 alteração, no `package.json`.
 ### Mudando a versão no `package.json`:
 
 Você vai encontrar o `package.json` na raiz do projeto. Entre nele e altere o valor da chave `version`:
