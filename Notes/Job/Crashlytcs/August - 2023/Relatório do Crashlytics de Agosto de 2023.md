@@ -17,3 +17,34 @@ _Relevância para os Objetivos da Equipe:_ Este KPI de estabilidade está direta
 No restante deste relatório, exploraremos os detalhes do nosso KPI de estabilidade, analisando dados específicos do Crashlytics.
 
 ## IOS:
+![[Crashlytics Report Aug 2023 IOS.png]]
+Temos dados a partir do dia 18, nos quais podemos observar que ocorreram aproximadamente 8 falhas. O dia com o maior número de falhas foi o dia 23, com um total de 14 incidentes registrados.
+
+Nosso índice de falhas permanece baixo, com uma média de apenas 0,67% das sessões apresentando problemas.
+
+**Terminamos o mês de agosto com o KPI em 99,33% de todas as sessões iOS sem falhas.**
+
+## Android:
+![[Crashlytics Report Aug 2023 Android.png]]
+
+No lado Android, conseguimos disponibilizar o aplicativo um pouco mais cedo, a partir do dia 10. Durante esse período, observamos um total de aproximadamente 136 falhas. Notavelmente, o dia com o maior número de falhas foi o dia 22, com um registro alarmante de 1.115 incidentes.
+
+Nosso índice de falhas está tão baixo quanto no iOS, apresentando uma média de 1% das sessões com problemas no Android.
+
+**Terminamos o mês de agosto com o KPI em 98,32% de todas as sessões Android sem falhas.**
+
+## Ações tomadas:
+
+Durante este mês, mantivemos uma vigilância cuidadosa sobre os alertas, com foco especial na plataforma Android. Conseguimos implementar rapidamente quatro hotfixes para abordar os principais problemas:
+
+## Próximas Açōes:
+
+Como próximos objetivos, temos um desafio bastante interessante: precisamos conseguir mapear alguns incidentes que não estão sendo rastreados de forma legível no aplicativo Android. Alguns exemplos estão listados abaixo:
+
+Precisamos tratá-los como exceções para poder enviar mais dados e resolver esses crashes que temos em nosso aplicativo.
+
+## Encerramento:
+
+Ao concluir este relatório, reafirmamos nosso compromisso em manter a estabilidade dos nossos aplicativos. Agosto trouxe desafios, mas demonstramos agilidade na resolução de problemas.
+
+O Crashlytics desempenhou um papel fundamental, fornecendo informações sobre onde agir. Mantivemos nosso foco na qualidade, aprendendo com nossas experiências para fortalecer nossas próximas entregas.
