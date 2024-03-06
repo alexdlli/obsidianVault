@@ -48,7 +48,7 @@ Terminamos o mês de **fevereiro** com o **KPI** em **99,64%** de todas as **ses
 
 ## Próximas Açōes:
 
-Como próximos objetivos, precisamos melhorar o processo voltado para a finalização dos crashs ao serem reportados na plataforma. Vale a pena lembrar que, esses crashs em sua maioria, são **débitos técnicos** e fica difícil **conciliar** a resolução deles com as **tarefas no dia a dia**. Sugiro a **criação** de **issues** em nosso repositório do github, e, que essas ações sejam incluídas como tasks dentro da nossa sprint.
+Como próximos objetivos, precisamos **melhorar** o **processo** voltado para a **finalização dos crashs** ao serem reportados na plataforma. **Vale** a pena **lembrar** que, **esses crashs** em sua maioria, **são débitos técnicos** e fica difícil **conciliar** a resolução deles com as **tarefas no dia a dia**. Sugiro a **criação** de **issues** em nosso **repositório** do github, e, que essas ações sejam incluídas **como tasks** dentro da nossa **sprint**.
 ## Encerramento
 
-O dado de **Sessões sem falhas** é algo novo é só esta disponível nas versões 4.6.x ou superiores, pois precisa de um SDK mais novo. Acredito que é um dado novo é super relevante para a observação das nossas métricas e vai ajudar no entendimento da qualidade do nosso app nos proxímos meses
+O dado de **Sessões sem falhas** é algo novo é só esta disponível nas versões 4.6.x ou superiores, pois precisa de um SDK mais novo. Acredito que é um dado novo super relevante para a observação das nossas métricas e vai ajudar no entendimento da qualidade do nosso app nos próximos meses.
