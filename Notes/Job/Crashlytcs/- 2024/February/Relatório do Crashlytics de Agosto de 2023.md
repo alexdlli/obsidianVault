@@ -20,11 +20,26 @@ No restante deste relatório, exploraremos os detalhes do nosso KPI de estabilid
 Temos dados do mês de fevereiro completo, nos quais podemos observar que ocorreram aproximadamente 12 mil falhas. O dia com o maior número de falhas foi o dia 21, com um total de 760 incidentes registrados.
 
 Apesar dos números altos de falhas a porcentagem de sessões que não encontraram falhas durante todo o intervalo selecionado foi bem alta: 
+> As sessões sem falhas são calculadas apenas para builds que usam uma versão do SDK do Crashlytics que oferece suporte a sessões (4.6.x)
 
 Ela usa a fórmula:  
 `1 - ( crashed_sessões / all_sessões )`
 
-Para seu app, é essa:  
+Para o nosso app, é essa:  
 `1 - ( 490 / 77034 ) = 99,36%`
 
-Terminamos o mês de **fevereiro** com o **KPI** em **99,36%** de todas as sessões **Android** sem falhas e com o KPI de Usuarios que não tiveram falhas em 98,56%
+Terminamos o mês de **fevereiro** com o **KPI** em **99,36%** de todas as sessões **Android** sem falhas e com o KPI de usuários que não tiveram falhas em 98,56%
+## IOS
+![[Android.png]]
+No lado IOS dados do mês de fevereiro completo, nos quais podemos observar que ocorreram aproximadamente 12 mil falhas. O dia com o maior número de falhas foi o dia 21, com um total de 760 incidentes registrados.
+
+Apesar dos números altos de falhas a porcentagem de sessões que não encontraram falhas durante todo o intervalo selecionado foi bem alta: 
+> As sessões sem falhas são calculadas apenas para builds que usam uma versão do SDK do Crashlytics que oferece suporte a sessões (4.6.x)
+
+Ela usa a fórmula:  
+`1 - ( crashed_sessões / all_sessões )`
+
+Para o nosso app, é essa:  
+`1 - ( 490 / 77034 ) = 99,36%`
+
+Terminamos o mês de **fevereiro** com o **KPI** em **99,36%** de todas as sessões **Android** sem falhas e com o KPI de usuários que não tiveram falhas em 98,56%
