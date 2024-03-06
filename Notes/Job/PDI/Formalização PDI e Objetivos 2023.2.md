@@ -9,12 +9,15 @@ No ponto de qualidade fiz o curso do Erick Wendel chamado Método TAJS, o curso 
 ## Produtividade
 Em produtividade é um ponto que tenho me interessado cada vez mais, o processo de auto-conhecimento é de conseguir entregar tarefas esta bem relacionado. Tem dias que vamos ser uma bomba de fazer coisas, e tem dias que simplesmente não, não podemos nos culpar por isso, mas temos entender os motivos. É o auto-conhecimento é a chave para equilibrar os pesos da produtividade
 ## Gestão Ágil
-Na questão de Gestão Ágil eu consegui entender mais a fundo os processos, e encontrei pontos bem legais, como mensurar 
+Na questão de Gestão Ágil eu consegui entender mais a fundo os processos, e encontrei pontos bem legais, como mensurar tarefas por dificuldade é não ter tarefas super complexas na mesma sprint, por mais simples que as tarefas sejam, eu não consigo fazer varias tarefas se elas não estiverem dentro de uma escala de dificuldade, não só de prioridade.
 
 # Objetivos
 
 ## **Testes unitários no Hand Talk App**
-
-## **Taxa de usuários sem falha (IOs)**
+Foi um objetivo concluído com sucesso, depois da adaptação dele. Aprendemos bastante, adaptamos muito código, sofremos no processo, quebramos os testes varias vezes, mas no final deu certo.
+## **Taxa de usuários sem falha (IOS)**
+Esse é uma métrica super importante, mas, bem difícil de se lidar, analisar quebras de código de forma nativa dentro de uma thread é bem complexo, e muitas vezes infrutífero, mas, trabalhamos sempre pra tratar os erros legíveis e principalmente para manter a qualidade do codigo para não ter undefineds e coisas do tipo. 
 
 ## **Nota de avaliação da App Store**
+
+Essa é outra métrica importante, mas difícil de controlar, acredito que se eu tivesse uma outra visão sobre esse dado no inicio do KR teria sido mais proveitoso, ja que não me atentei tanto em "Como eu vou melhorar esse valor?"
