@@ -17,8 +17,14 @@ No restante deste relatório, exploraremos os detalhes do nosso KPI de estabilid
 
 ## Android
 ![[Android.png]]
-Temos dados do mês de fevereiro completo, nos quais podemos observar que ocorreram aproximadamente 12 mil falhas. O dia com o maior número de falhas foi o dia 23, com um total de 14 incidentes registrados.
+Temos dados do mês de fevereiro completo, nos quais podemos observar que ocorreram aproximadamente 12 mil falhas. O dia com o maior número de falhas foi o dia 21, com um total de 760 incidentes registrados.
 
-Nosso índice de falhas permanece baixo, com uma média de apenas 0,67% das sessões apresentando problemas.
+Apesar dos números altos de falhas a porcentagem de sessões que não encontraram falhas durante todo o intervalo selecionado foi bem alta: 
 
-**Terminamos o mês de agosto com o KPI em 99,33% de todas as sessões iOS sem falhas.**
+Ela usa a fórmula:  
+`1 - ( crashed_sessões / all_sessões )`
+
+Para seu app, é essa:  
+`1 - ( 490 / 77034 ) = 99,36%`
+
+Terminamos o mês de **fevereiro** com o **KPI** em **99,36%** de todas as sessões **Android** sem falhas e com o KPI de Usuarios que não tiveram falhas em 98,56%
