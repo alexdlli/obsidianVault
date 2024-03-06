@@ -28,18 +28,22 @@ Ela usa a fórmula:
 Para o nosso app, é essa:  
 `1 - ( 490 / 77034 ) = 99,36%`
 
-Terminamos o mês de **fevereiro** com o **KPI** em **99,36%** de todas as sessões **Android** sem falhas e com o KPI de usuários que não tiveram falhas em 98,56%
+Terminamos o mês de **fevereiro** com o **KPI** em **99,36%** de todas as **sessões Android sem falhas** e com o **KPI** de **usuários que não tiveram falhas** em **98,56%**
 ## IOS
-![[Android.png]]
-No lado IOS dados do mês de fevereiro completo, nos quais podemos observar que ocorreram aproximadamente 12 mil falhas. O dia com o maior número de falhas foi o dia 21, com um total de 760 incidentes registrados.
+![[IOS.png]]
+No lado IOS, podemos observar que ocorreram aproximadamente 996 falhas. O dia com o maior número de falhas foi o dia 29, com um total de 55 incidentes registrados.
 
-Apesar dos números altos de falhas a porcentagem de sessões que não encontraram falhas durante todo o intervalo selecionado foi bem alta: 
+Temos um número menor de falhas a em relação ao Android, mas isso se da pelo fato de termos menos usuários ativos. Porem, mantemos a porcentagem de sessões que não encontraram falhas durante todo o intervalo selecionado foi bem alta: 
 > As sessões sem falhas são calculadas apenas para builds que usam uma versão do SDK do Crashlytics que oferece suporte a sessões (4.6.x)
 
 Ela usa a fórmula:  
 `1 - ( crashed_sessões / all_sessões )`
 
 Para o nosso app, é essa:  
-`1 - ( 490 / 77034 ) = 99,36%`
+`1 - ( 995 / 276100 ) = 99,64%`
 
-Terminamos o mês de **fevereiro** com o **KPI** em **99,36%** de todas as sessões **Android** sem falhas e com o KPI de usuários que não tiveram falhas em 98,56%
+Terminamos o mês de **fevereiro** com o **KPI** em **99,64%** de todas as **sessões IOS sem falhas** e com o KPI de **usuários que não tiveram falhas** em **98,1%**
+
+
+## Pontos a se levar em conta
+O dado de **Sessões sem falhas** é algo novo é só esta disponível nas versões 4.6.x ou superiores, pois precisa de um SDK mais novo. Acredito que é um dado novo é super relevante para a observação das nossas metricas. 
