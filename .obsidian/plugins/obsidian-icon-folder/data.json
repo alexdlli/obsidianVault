@@ -31,5 +31,6 @@
   "Tasks": "RiTaskLine",
   "Articles": "RiArticleLine",
   "ReadMe": "RiGithubLine",
-  "Notes": "RiStickyNoteLine"
+  "Notes": "RiStickyNoteLine",
+  "Notion": "RiArticleLine"
 }
