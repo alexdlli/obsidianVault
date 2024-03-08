@@ -15,6 +15,3 @@ Com carinho,
 Alex - Alexdlli
 
 
-AIzaSyCsgmvfI-GmPy5TgXzuRh0tjjR1PXdQjnI
-AIzaSyD7XT164yNtiyeaCyD3WW1fzeg4GyEjx5M
-
