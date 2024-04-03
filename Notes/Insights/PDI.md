@@ -1,8 +1,6 @@
-Make a PDI looking for my next objetives 
-
+Make a PDI looking study and learning about software architecture.
 
 Think about this requirements:
-
-Goals 10: Make a course tarara
-Goals 20: Create a personal project using tarara
-Goals 70: Make a presentations for my team about the tarara
+	Goals 10: Make a course our anything else about software architecture 
+	Goals 20: Create a personal project using software architecture 
+	Goals 70: Make a presentations for my team or article about the clear architecture
