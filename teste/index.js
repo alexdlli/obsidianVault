@@ -1,13 +1,25 @@
-var idadeAlex = 24
-var idadeYummi = 2
+function validarIdade(idade, nome) {
+  if (!idade || !nome) return console.log("falta parametro")
 
-function validarIdade(idade) {
   if (idade >= 18) {
-    return "> ou = a 18"
+    console.log(`${nome}, é maior`)
   } else {
-    return "< a 18"
+    console.log(`${nome}, é menor`)
   }
 }
 
-validarIdade(idadeAlex)
-validarIdade(idadeYummi)
+var arrayDeDados = [
+  {
+    nome: "alex",
+    idade: 24
+  },
+  {
+    nome: "yummi",
+    idade: 2
+  }
+]
+
+for (dado in arrayDeDados) {
+  dado => validarIdade(dado.idade, dado.nome)
+}
+
