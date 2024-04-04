@@ -19,7 +19,5 @@ var arrayDeDados = [
   }
 ]
 
-for (dado in arrayDeDados) {
-  dado => validarIdade(dado.idade, dado.nome)
-}
+arrayDeDados.map(dado => validarIdade(dado.idade, dado.nome))
 
