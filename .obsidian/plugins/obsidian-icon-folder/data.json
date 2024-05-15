@@ -6,7 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "RiHeartsLine",
+      "RiHeartsFill",
       "RiStickyNoteLine",
       "RiGithubLine",
       "RiArticleLine",
@@ -33,5 +33,5 @@
   "ReadMe": "RiGithubLine",
   "Notes": "RiStickyNoteLine",
   "Notion": "RiArticleLine",
-  "Conteúdo": "RiHeartsLine"
+  "Conteúdo": "RiHeartsFill"
 }
