@@ -10,9 +10,7 @@ Vou voar de balão pelo mundo, entrar em uma nave e ir pra lua, pegar vagalumes 
 
 Mas, só amanhã!
 
-Eu vou falar com meus pais; 
-Dar bom dia pros meus amigos;
-E acompanhar de pertinho o dia dos meus gatos;
+Eu vou falar com meus pais; Dar bom dia pros meus amigos; E acompanhar de pertinho o dia dos meus gatos;
 
 Mas isso fica pra amanhã!
 
@@ -20,7 +18,7 @@ Eu queria tanto que o amanhã chegasse logo pra conseguir conquistar todos os me
 
 Eu sei que o amanhã que estou falando nunca vai chegar, até agora nunca chegou. Mas pq isso acontece? Pq eu simplemente não consigo parar de scrolar videos e fazer o que eu preciso fazer?
 
-O hoje não é uma dádiva? E não é por isso que ele se chama presente.
+O hoje não é uma dádiva? E não é por isso que ele se chama presente?
 
 Se o presente é a unica coisa que tenho em mão, eu não vou deixar isso pra amanhã. 
 
