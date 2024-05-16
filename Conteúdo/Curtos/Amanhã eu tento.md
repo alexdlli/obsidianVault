@@ -1,4 +1,4 @@
-Nossa, hoje meu dia foi tão cansativo, tinha tudo pra dar certo, mas tudo que eu consegui foram não e varios erros, e eu ainda tenho que estudar aquele conteúdo tecnico chato.
+Nossa, hoje meu dia foi tão cansativo e eu ainda tenho que estudar aquele conteúdo tecnico chato.
 
 Mas quer saber?
 
@@ -6,9 +6,7 @@ Deixa pra amanhã!
 
 Amanhã eu vou fazer tudo que eu não consegui fazer nos meus ultimos dias, 
 
-Vou voar de balão pelo mundo;
-Vou entrar em uma nave e ir pra lua;
-Vou pegar vagalumes e dar pra ela;
+Vou voar de balão pelo mundo, entrar em uma nave e ir pra lua, pegar vagalumes e dar pra ela;
 
 Mas, só amanhã!
 
@@ -20,13 +18,9 @@ Mas isso fica pra amanhã!
 
 Eu queria tanto que o amanhã chegasse logo pra conseguir conquistar todos os meus sonhos;
 
-Mas pq eu não pego aquele livro que eu disse que ia ler tem 2 meses e so começo a ler, não sei, acho que to cansado de mais por hoje. 
-
 Eu sei que o amanhã que estou falando nunca vai chegar, até agora nunca chegou. Mas pq isso acontece? Pq eu simplemente não consigo parar de scrolar videos e fazer o que eu preciso fazer?
 
-Acho que já sei: 
-
-O ontem é história, o amanhã é um mistério, mas o hoje é uma dádiva. É por isso que se chama presente.
+O hoje não é uma dádiva? E não é por isso que ele se chama presente.
 
 Se o presente é a unica coisa que tenho em mão, eu não vou deixar isso pra amanhã. 
 
