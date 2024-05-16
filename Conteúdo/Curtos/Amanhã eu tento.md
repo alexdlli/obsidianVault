@@ -6,13 +6,9 @@ Deixa pra amanhã!
 
 Amanhã eu vou fazer tudo que eu não consegui fazer nos meus ultimos dias, 
 
-Vou voar de balão pelo mundo, entrar em uma nave e ir pra lua, pegar vagalumes e dar pra ela;
+Vou voar de balão por ai, entrar em uma foguete e ir pra lua, pegar vagalumes e dar pra ela e acompanhar de pertinho o dia dos meus gatos;
 
 Mas, só amanhã!
-
-Eu vou falar com meus pais; Dar bom dia pros meus amigos; E acompanhar de pertinho o dia dos meus gatos;
-
-Mas isso fica pra amanhã!
 
 Eu queria tanto que o amanhã chegasse logo pra conseguir conquistar todos os meus sonhos;
 
@@ -20,7 +16,7 @@ Eu sei que o amanhã que estou falando nunca vai chegar, até hoje não chegou. 
 
 O hoje não é uma dádiva? E não é por isso que ele se chama presente?
 
-Se o presente é a unica coisa que tenho em mão, eu não vou deixar isso pra amanhã. 
+Se o presente é a unica coisa que tenho agora, eu não vou deixar isso pra amanhã. 
 
 
 https://www.youtube.com/watch?v=l2k7SjfT7mc&list=RDdfZZW40yAfo&index=4&ab_channel=Vaundy-Topic
