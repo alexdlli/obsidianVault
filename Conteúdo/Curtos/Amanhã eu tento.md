@@ -7,7 +7,7 @@ Deixa pra amanhã!
 Amanhã eu vou fazer tudo que eu não consegui fazer nos meus ultimos dias, 
 
 Vou voar de balão pelo mundo;
-Vou pegar uma nave e ir pra lua;
+Vou entrar em uma nave e ir pra lua;
 Vou pegar vagalumes e dar pra ela;
 
 Mas, só amanhã!
@@ -22,7 +22,13 @@ Eu queria tanto que o amanhã chegasse logo pra conseguir conquistar todos os me
 
 Mas pq eu não pego aquele livro que eu disse que ia ler tem 2 meses e so começo a ler, não sei, acho que to cansado de mais por hoje. 
 
-Eu sei que o amanhã que estou falando nunca vai chegar, até agora nunca chegou.
+Eu sei que o amanhã que estou falando nunca vai chegar, até agora nunca chegou. Mas pq isso acontece? Pq eu simplemente não consigo parar de scrolar videos e fazer o que eu preciso fazer?
+
+Acho que já sei: 
+
+O ontem é história, o amanhã é um mistério, mas o hoje é uma dádiva. É por isso que se chama presente.
+
+Se o presente é a unica coisa que tenho em mão, eu não vou deixar isso pra amanhã. 
 
 
 https://www.youtube.com/watch?v=l2k7SjfT7mc&list=RDdfZZW40yAfo&index=4&ab_channel=Vaundy-Topic
