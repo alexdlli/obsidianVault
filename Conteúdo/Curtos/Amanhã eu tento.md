@@ -14,11 +14,11 @@ Mas, só amanhã!
 
 Eu vou falar com meus pais; 
 Dar bom dia pros meus amigos;
-E acompanhar de pertinho o dia dos meus gatos.
+E acompanhar de pertinho o dia dos meus gatos;
 
 Mas isso fica pra amanhã!
 
-Eu queria tanto que o amanhã chegasse logo pra conseguir conquistar todos os meus sonhos.
+Eu queria tanto que o amanhã chegasse logo pra conseguir conquistar todos os meus sonhos;
 
 Mas pq eu não pego aquele livro que eu disse que ia ler tem 2 meses e so começo a ler, não sei, acho que to cansado de mais por hoje. 
 
