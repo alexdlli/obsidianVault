@@ -20,9 +20,17 @@ Base de dados do Analytics
 App de Analytics
 
 Api Do App
+	- Assinatura
+	- Analytics
 
 Consumo no app
 	- Validar assinatura
+		- Se for um dominio gmail.com, outlook.com, hotmail.com,  a gente não faz a requisição pra api
 	- Sincronizar dados com a api de Analytics
-	- Baixar avatares 
+		- Faz request pra Api
+		- Parar o processo
+			- Streams
+	
+	- Moedas?
+	- Avatares?
 		- Trocar o default
