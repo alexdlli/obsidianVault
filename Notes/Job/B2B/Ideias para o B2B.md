@@ -1,5 +1,8 @@
 
-Base de dados separada para assinatura e ou cliente B2B
+Base de dados separada para assinatura e ou cliente B2B ( Cloud SQL, Postgress )
+
+Base de dados para os assets
+	Permissão com a Del
 
 Atualizar subscriptions
 	- Ele vai criar dados dentro da base de assinatura
@@ -19,3 +22,7 @@ App de Analytics
 Api Do App
 
 Consumo no app
+	- Validar assinatura
+	- Sincronizar dados com a api de Analytics
+	- Baixar avatares 
+		- Trocar o default
