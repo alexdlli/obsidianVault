@@ -13,3 +13,5 @@ Vai servir para a area logada, plataforma de gestão das assinaturas
 - Crud de Contato
 - Crud de license?
 - Crud de Permissão
+
+Api Do App
