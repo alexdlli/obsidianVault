@@ -26,5 +26,5 @@ Robo = Teste a lampada
 
 Robo = A lampada acendeu?
 	Sim = tarefa concluda
-		Não = Refaça todo o processo
+		Não = Refaça todo o processo até que a lampada
 
