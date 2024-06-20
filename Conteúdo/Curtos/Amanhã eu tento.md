@@ -16,7 +16,9 @@ Eu sei que o amanhã que estou falando nunca vai chegar, até hoje não chegou. 
 
 O hoje não é uma dádiva? E não é por isso que ele se chama presente?
 
-Se o presente é a unica coisa que tenho agora, eu não vou deixar mais meus sonhos pra amanhã. 
+Se o presente é a unica coisa que tenho agora, eu não vou deixar mais meus sonhos pra amanhã. Afinal, cada passo me deixa mais perto, e eu não vou deixar que meus sonhos sejam apenas sonhos. 
+
+"A gente consegue"
 
 
 https://www.youtube.com/watch?v=l2k7SjfT7mc&list=RDdfZZW40yAfo&index=4&ab_channel=Vaundy-Topic
