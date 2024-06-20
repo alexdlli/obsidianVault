@@ -12,7 +12,7 @@ Mas, só amanhã!
 
 Eu queria tanto que o amanhã chegasse logo pra conseguir conquistar todos os meus sonhos;
 
-Eu sei que o amanhã que estou falando nunca vai chegar, até hoje não chegou. Mas pq isso acontece? Pq eu simplemente não consigo parar de scrolar videos e fazer o que eu preciso fazer?
+Eu sei que o amanhã que estou falando nunca vai chegar, até hoje não chegou. Mas pq isso acontece? Pq eu simplesmente não consigo parar de scrolar videos e fazer o que eu preciso fazer?
 
 O hoje não é uma dádiva? E não é por isso que ele se chama presente?
 
